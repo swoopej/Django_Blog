@@ -1,4 +1,4 @@
-s is a blog engine built using the Django framework.
+This is a blog engine built using the Django framework.
 
 You will need to a couple of things to get the blog up and running on your machine:
 
