@@ -1,2 +1,6 @@
+#ignoring metadata and default database
 .DS_Store
 .metadata/
+.pydevproject
+.project
+sqlite.db
