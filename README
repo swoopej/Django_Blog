@@ -6,4 +6,4 @@ You will need to create a new database file and tell Django the path to that fil
 
 You will also need to change the template directories to your machine's path because it is absolute.  This is done in the settings.py file in the TEMPLATE_DIRS section.  Just add the path to where you installed the Django_Blog.
 
-Lastly, you will likely need to add the path to your system's Python path so it can access the tagging module.  This can be done in terminal by running "export PYTHONPATH=$PYTHONPATH:/(path to Django_Blog).
+
